@@ -13,7 +13,7 @@ This repository contains a Node.js application that enables real-time location t
   
   <br/>
 
-  <a href="https://www.youtube.com/watch?v=video-id">
+  <a href="https://m.youtube.com/watch?v=u_8-jF01hW8">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </div>
@@ -62,7 +62,7 @@ This repository contains a Node.js application that enables real-time location t
 
 If you found this project helpful, consider giving it a **star** ⭐!  
 
-📺 Don't forget to **like & subscribe** on [YouTube](#) for more awesome content.  
+📺 Don't forget to **like & subscribe** on [YouTube]([#](https://m.youtube.com/watch?v=u_8-jF01hW8)) for more awesome content.  
 
 Happy coding! 🚀🔥  
 
